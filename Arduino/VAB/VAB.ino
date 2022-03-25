@@ -1,8 +1,5 @@
- #include <Servo.h>
+#include <Servo.h>
 
-#define TRIGGER_PIN 11
-#define ECHO_PIN 12
-#define MAX_DISTANCE 200
 #define SWITCH_PIN 4
 
 int switchaRoo = 0;
